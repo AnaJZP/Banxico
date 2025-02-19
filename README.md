@@ -21,10 +21,10 @@ git clone https://github.com/AnaJZP/Banxico.git
 cd Banxico
 ```
 
-Uso 📈
+## Uso 📈
 Para ejecutar el análisis, abre el notebook Banxico_Taller.ipynb en Google Colab o en tu entorno local con Jupyter Notebook y sigue las instrucciones dentro del notebook.
 
-Contribuciones 🤝
+## Contribuciones 🤝
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor:
 
 Fork el proyecto
@@ -33,8 +33,8 @@ Haz tus cambios y commit (git commit -am 'Añadir alguna característica')
 Push a la rama (git push origin feature/NuevaCaracteristica)
 Abre un Pull Request
 
-Licencia 📄
+## Licencia 📄
 Este proyecto está bajo la Licencia del amor a los datos
 
-Contacto 📬
+## Contacto 📬
 GitHub: @AnaJZP
